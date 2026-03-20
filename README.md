@@ -1,2 +1,3 @@
-# modern-code-reviewer-g9hk
-Automated issue comment bot repository
+# Modern Code Reviewer G9Hk
+
+Automated issue comment bot repository.
